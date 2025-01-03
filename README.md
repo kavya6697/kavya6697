@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi, I am Kavya Ramisetty 👋
 
-<!--
-**kavya6697/kavya6697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Staff Engineer and a Decision Science Researcher. I am passionate about decisions derived by processing uncertain information and believe in AI's explainability power to improve people's understanding about situations and outcomes. I want to transfer my limited knowledge to others and guide them into this vast field through writing, teaching, and mentoring.
+
+## You can follow me
+
 
 Here are some ideas to get you started:
 
