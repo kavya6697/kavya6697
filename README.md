@@ -10,7 +10,7 @@ I am a Staff Engineer and a Decision Science Researcher. I am passionate about d
 
 ### You can mail me at ramisetty.kavya06@gmail.com
 
-## Quick Five One-liners
+## Five One-liners
 
 **- 🔭 I’m currently working on** AI-bot for Mental Well-being project<br>
 **- 🌱 I’m currently learning** Deep Learning and Natural Language Processing<br>
