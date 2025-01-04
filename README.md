@@ -8,7 +8,7 @@ I am a Staff Engineer and a Decision Science Researcher. I am passionate about d
 
 ### You can know me at [portfolio](https://ramisettykavya06.wixsite.com/personal)
 
-### You can contact me at [EMail](ramisetty.kavya06@gmail.com)
+### You can mail me at ramisetty.kavya06@gmail.com
 
 ## Quick Five One-liners
 
