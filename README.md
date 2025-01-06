@@ -13,7 +13,7 @@ I am a Staff Engineer and a Decision Science Researcher. I am passionate about d
 ## Five One-liners
 
 **- 🔭 I’m working on** AI-bot for Mental Well-being project<br>
-**- 🌱 I’m learning** Deep Learning and Natural Language Processing<br>
-**- 👯 I’m looking to collaborate on** Python Development and Content Writing<br>
+**- 👯 I’m looking to collaborate on** Content Writing<br>
 **- 🤔 I’m exploring** Tips to increase profile views<br>
+**- 🌱 I’m learning** Natural Language Processing<br>
 **- 💬 I'm practicing** consistency<br>
