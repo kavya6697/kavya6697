@@ -10,7 +10,7 @@ A Decision Science Researcher and a Staff Engineer. Passionate about decisions d
 
 ### You can mail me at ramisetty.kavya06@gmail.com
 
-## Five One-liners
+## Ongoing Activities
 
 **- 🔭 I’m working on** AI-bot for Mental Well-being Project<br>
 **- 👯 I’m looking for** Content Writing Collaborations<br>
