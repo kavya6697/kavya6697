@@ -1,6 +1,6 @@
 # Hi, I am Kavya Ramisetty 👋
 
-I am a Staff Engineer and a Decision Science Researcher. I am passionate about decisions derived by processing uncertain information and believe in AI's explainability power to improve people's understanding about situations and outcomes. 
+A Decision Science Researcher and a Staff Engineer. Passionate about decisions derived by processing uncertain information and believe in AI's explainability power to improve people's understanding about situations and outcomes. 
 
 ### You can read my research articles at [Google Scholar](https://scholar.google.com/citations?hl=en&user=SlYH23kAAAAJ&view_op=list_works&sortby=pubdate)
 
